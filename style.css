@@ -1,0 +1,27 @@
+img{
+    border-radius: 8px !important;
+
+}
+li{
+    list-style-type:none !important;
+    padding-left: 10px;
+}
+.child_li{
+    padding-left: 800px;
+}
+.child{
+   
+    padding-left: 30px;
+}
+.child:hover{
+    /* font-size: large; */
+    cursor: pointer;
+    font-weight: bolder;
+}
+/* .col-md-3{
+    margin: 50px !important;
+} */
+/* p{
+    font-weight: bold;
+    font-size: 20px;
+} */
